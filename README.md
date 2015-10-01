@@ -60,6 +60,7 @@ A curated list of amazingly awesome open source sysadmin resources inspired by [
 * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
 * [Backuppc](http://backuppc.sourceforge.net/) - Client-server model backup tool with file pooling scheme.
 * [Bup](https://github.com/bup/bup) - Incremental backups with rolling checksums, git packfiles, de-duplication, and a FUSE filesystem.
+* [Bareos](http://www.bareos.org) - Bacula fork focused on modularity & community engagement.
 * [Burp](http://burp.grke.org/) - Network backup and restore program.
 * [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
 * [FreeFileSync](http://www.freefilesync.org) - Folder comparison and synchronization tool.
